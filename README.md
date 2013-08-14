@@ -6,4 +6,4 @@ You can check out project at
 
 *.doc   https://docs.google.com/file/d/0B4prEMkbFQSIN2hjQkcxdlpNZVU/edit?usp=sharing
 
-*.pdf   https://docs.google.com/file/d/0B4prEMkbFQSIUm9JT0swbFozWHc/edit?usp=sharing
+*.pdf   https://docs.google.com/file/d/0B4prEMkbFQSIMjctT2o3SHZ2LTQ/edit?usp=sharing
